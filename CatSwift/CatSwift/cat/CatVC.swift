@@ -135,8 +135,6 @@ class RLabel:UILabel{
 }
 class RButton:UIButton{
     
-    
-    
     //{{ msg }}
     func v_text(re:Response){
         
